@@ -1,11 +1,13 @@
-title: Classifying Book Plot Summaries Into Multiple Genres
-emoji: 👀
-colorFrom: red
-colorTo: gray
+---
+title: Multilabel Book Genre Classification System
+emoji: 🐠
+colorFrom: purple
+colorTo: yellow
 sdk: gradio
-sdk_version: 3.17.0
+sdk_version: 3.50.0
 app_file: app.py
 pinned: false
 license: apache-2.0
+---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
