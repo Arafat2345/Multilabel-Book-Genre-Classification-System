@@ -4,5 +4,5 @@ book-classifier-stage-1.pkl is the final model for onnx.
 
 Get pytorch and onnx models here: https://drive.google.com/drive/folders/1AVfvSb79p2zKmkx6pYe6mk6YdomZFwya?usp=sharing
 
-book-classifier.onnx is the final deployed model.
+book-classifier-quantized.onnx is the final deployed model.
 
